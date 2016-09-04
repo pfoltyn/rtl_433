@@ -81,6 +81,7 @@ add_executable(rtl_433
 	devices/elro_db286a.c
         devices/efergy_optical.c
         devices/hondaremote.c
+        devices/maplin_n25fr.c
 	devices/new_template.c
 
 )
